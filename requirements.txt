@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+flask
+python-dotenv
+kaggle
+pyowm
+meteostat
+xarray
+netCDF4
+pytest
